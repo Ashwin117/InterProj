@@ -1,0 +1,7 @@
+.eventDates a{
+    color: red !important;
+}
+
+.cancelled {
+	color: orange;
+}
